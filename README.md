@@ -59,7 +59,7 @@ More information at [catscoin.org](http://www.catscoin.org)
 <tr><td>Phase 18</td><td>150,000 CATS</td><td>400,001-440,000</td><td>150 CATS</td><td>90% (135 CATS)</td><td>10% (15 CATS)</td></tr>
 <tr><td>Phase 19</td><td>200,000 CATS</td><td>440,001-480,000</td><td>140 CATS</td><td>90% (126 CATS)</td><td>10% (14 CATS)</td></tr>
 <tr><td>Phase 20</td><td>250,000 CATS</td><td>480,001-520,000</td><td>130 CATS</td><td>90% (117 CATS)</td><td>10% (13 CATS)</td></tr>
-<tr><td>Phase 20</td><td>300,000 CATS</td><td>520,001-550,000</td><td>120 CATS</td><td>90% (108 CATS)</td><td>10% (12 CATS)</td></tr>
-<tr><td>Phase 20</td><td>350,000 CATS</td><td>550,001-570,000</td><td>110 CATS</td><td>90% (99 CATS)</td><td>10% (11 CATS)</td></tr>
-<tr><td>Phase 20</td><td>400,000 CATS</td><td>570,001-∞</td><td>100 CATS</td><td>90% (90 CATS)</td><td>10% (10 CATS)</td></tr>
+<tr><td>Phase 21</td><td>300,000 CATS</td><td>520,001-550,000</td><td>120 CATS</td><td>90% (108 CATS)</td><td>10% (12 CATS)</td></tr>
+<tr><td>Phase 22</td><td>350,000 CATS</td><td>550,001-570,000</td><td>110 CATS</td><td>90% (99 CATS)</td><td>10% (11 CATS)</td></tr>
+<tr><td>Phase 23</td><td>400,000 CATS</td><td>570,001-∞</td><td>100 CATS</td><td>90% (90 CATS)</td><td>10% (10 CATS)</td></tr>
 </table>
